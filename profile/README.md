@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
+**Sammelbecken für Experimente aus der modernen Welt**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
